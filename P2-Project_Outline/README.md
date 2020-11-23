@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-<b> Lifehack app <b/> <br/>
+<b> Lifehack app </b> <br/>
 I had a broken seatbelt in my car. I went to youtube to try to find a fix. I watched a bunch of videos and thought it must be a faster way to find a fix for this.I needed a place where I can find a bunch or random solutions to a bunch of random problems. I came up with the idea for this web app that lets a user search for clever or unorthodox solutions to problems. The user can create a profile post, save, search, share and rate the effectiveness of lifehacks with other users.
 
 ### Features
