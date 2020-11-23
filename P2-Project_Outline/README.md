@@ -7,23 +7,22 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-
-Life Hack Web-App
+<b> Lifehack app <b/> <br/>
 I had a broken seatbelt in my car. I went to youtube to try to find a fix. I watched a bunch of videos and thought it must be a faster way to find a fix for this.I needed a place where I can find a bunch or random solutions to a bunch of random problems. I came up with the idea for this web app that lets a user search for clever or unorthodox solutions to problems. The user can create a profile post, save, search, share and rate the effectiveness of lifehacks with other users.
 
 ### Features
 
--Create a profile
--Post a lifehack
--Save useful lifehacks
--Share lifehacks with other users
--Rate how well a lifehack worked
+1.Create a profile <br/>
+2.Post a lifehack <br/>
+3.Save useful lifehacks <br/>
+4.Share lifehacks with other users <br/>
+5.Rate how well a lifehack worked
 
 ### Technologies
 
--Javascript of some sort or front end technology to make it interactive & look cool 
--MySQL or some database technology to save information
--Java/Spring to set up the framework and pass information
+1.Javascript of some sort or front end technology to make it interactive & look cool <br/>
+2.MySQL or some database technology to save information  <br/>
+3.Java/Spring to set up the framework and pass information  <br/>
 
 ### What I'll Have to Learn
 
