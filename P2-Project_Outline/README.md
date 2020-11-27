@@ -8,20 +8,45 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 
+Our app will be a recipe creating and sharing (or recipe book) app. It will allow users to create an account and use that account to post new, save favorites, and comment/provide feedback on tried recipes. Users will also be able to follow their favorite creators to stay up-to-date with any new posts. For new recipes; some general starter templates will be available(i.e. a cookie template would include eggs, butter, flour, and baking soda).
 
 ### Features
 
+User login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
+
+Search: Users will be able to search for recipe posts containing given text.
+
+Create Post: Users will be able to create new recipe posts when logged in. New posts will appear in the user’s profile.
+
+View Recipe: Users will be able to view recipes from other users.
+
+Create Tags For A Recipe: Users will be able to apply tags to my recipes so that others can find my recipes more easily.
+
+Edit/Delete Recipe: Users will be able to edit and delete a recipe they posted.
+
+Recipe Template: Users will be able to create a recipe using a template.
+
+Follow Other Users: Users will be able to see their favorite user’s recipes. 
+
+View Recipes By Category: Users will be able to view a list of recipes in a category
 
 
 ### Technologies
 
+Java
+Spring Boot
+MySQL
+Hibernate
+Thymeleaf templates
+
 
 
 ### What I'll Have to Learn
-
+Do some research on more front end technologies of the user interface. Deepen understanding of the technologies covered in LC101 as we will be using those heavily in our project.
 
 
 ### Project Tracker
 Link to your Trello board here
+https://trello.com/b/U658nAfD/untitled-recipe-book-project
 
 
